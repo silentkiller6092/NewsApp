@@ -11,6 +11,7 @@ const News = (props) => {
   // document.title = `${props.category} This is News`;
 
   const updatepage = async () => {
+    // eslint-disable-next-line
     props.setProgress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=in&category=${props.category}&apiKey=${props.apikey}&page=${pages}&pageSize=${props.pageSize}`;
     setloding(true);
@@ -27,7 +28,6 @@ const News = (props) => {
   const fetchMoreData = async () => {
     setPages(pages + 1);
     const url = `https://newsapi.org/v2/top-headlines?country=in&category=${props.category}&apiKey=${props.apikey}&page=${pages}&pageSize=${props.pageSize}`;
-
     let data = await fetch(url);
     let articleValue = await data.json();
     setArticles(articles.concat(articleValue.articles));
@@ -35,7 +35,10 @@ const News = (props) => {
     setloding(false);
   };
   useEffect(() => {
+    //eslint-disable-next-line
+    // eslint-disable-next-line
     updatepage();
+    // eslint-disable-next-line
   }, []);
 
   return (

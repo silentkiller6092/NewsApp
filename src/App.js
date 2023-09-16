@@ -5,12 +5,9 @@ import News from "./components/News";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
 const App = () => {
-  const [progress, setProgres] = useState(0);
+  const [progress, setProgress] = useState(0);
   // let state = { progress: 0 };
   let APIKEY = "905f0d279a764013a7a2d83434e68a30";
-  const setProgress = (progress) => {
-    setProgres(progress);
-  };
 
   return (
     <BrowserRouter>
