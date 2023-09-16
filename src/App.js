@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
 export default class App extends Component {
   state = { progress: 0 };
+  APIKEY = "905f0d279a764013a7a2d83434e68a30";
   setProgress = (progress) => {
     this.setState({ progress: progress });
   };
@@ -30,7 +31,7 @@ export default class App extends Component {
                     key={1}
                     pageSize={10}
                     category="general"
-                    apikey="905f0d279a764013a7a2d83434e68a30"
+                    apikey={this.APIKEY}
                   />
                 }
               />
@@ -42,7 +43,7 @@ export default class App extends Component {
                     key={2}
                     pageSize={10}
                     category="sport"
-                    apikey="905f0d279a764013a7a2d83434e68a30"
+                    apikey={this.APIKEY}
                   />
                 }
               />
@@ -55,7 +56,7 @@ export default class App extends Component {
                     key={3}
                     pageSize={10}
                     category="entertainment"
-                    apikey="905f0d279a764013a7a2d83434e68a30"
+                    apikey={this.APIKEY}
                   />
                 }
               />
@@ -68,7 +69,7 @@ export default class App extends Component {
                     key={10}
                     pageSize={10}
                     category="business"
-                    apikey="905f0d279a764013a7a2d83434e68a30"
+                    apikey={this.APIKEY}
                   />
                 }
               />
@@ -81,7 +82,7 @@ export default class App extends Component {
                     key={5}
                     pageSize={10}
                     category="health"
-                    apikey="905f0d279a764013a7a2d83434e68a30"
+                    apikey={this.APIKEY}
                   />
                 }
               />
@@ -94,7 +95,7 @@ export default class App extends Component {
                     key={6}
                     pageSize={10}
                     category="science"
-                    apikey="905f0d279a764013a7a2d83434e68a30"
+                    apikey={this.APIKEY}
                   />
                 }
               />
@@ -107,7 +108,7 @@ export default class App extends Component {
                     key={7}
                     pageSize={10}
                     category="technology"
-                    apikey="905f0d279a764013a7a2d83434e68a30"
+                    apikey={this.APIKEY}
                   />
                 }
               />
@@ -120,7 +121,7 @@ export default class App extends Component {
                     key={8}
                     pageSize={10}
                     category="health"
-                    apikey="905f0d279a764013a7a2d83434e68a30"
+                    apikey={this.APIKEY}
                   />
                 }
               />
