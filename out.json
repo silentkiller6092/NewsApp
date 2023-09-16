@@ -1,0 +1,214 @@
+{
+  "status": "ok",
+  "totalResults": 16,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "LISA MASCARO and FARNOUSH AMIRI",
+      "title": "McCarthy directs House panel to open Biden impeachment inquiry",
+      "description": "WASHINGTON (AP) — Speaker Kevin McCarthy said Tuesday he is directing a House committee to open an impeachment inquiry into President Joe Biden over his family's business dealings, launching historic proceedings ahead of the 2024 election.",
+      "url": "https://apnews.com/b187202be8814f7acbdd6e2e937e23d4",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1869d9fbfc16434287caf215aabebe67/3000.jpeg",
+      "publishedAt": "2023-09-12T14:53:19Z",
+      "content": "WASHINGTON (AP) — Speaker Kevin McCarthy said Tuesday he is directing a House committee to open an impeachment inquiry into President Joe Biden over his family's business dealings, launching historic… [+5550 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ryan Gaydos",
+      "title": "Jake Paul believes 'America is falling,' implores followers to vote in 2024 election: 'We need someone great'",
+      "description": "Jake Paul is taking next year's election seriously and suggested on Sunday he wants to make an informed decision when he goes to the poll to cast his vote in the 2024 presidential election.",
+      "url": "https://www.foxnews.com/sports/jake-paul-believes-america-falling-implores-followers-vote-2024-election-we-need-someone-great",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Jake-Paul5.jpg",
+      "publishedAt": "2023-09-12T12:45:33Z",
+      "content": "Jake Paul suggested Sunday he wants to make an informed decision for when he goes to the polls to cast his vote for president in the 2024 election.\r\nPaul wrote on his Instagram Stories he planned to … [+2032 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Putin calls Trump legal cases ‘politically motivated persecution’",
+      "description": "Trump, the frontrunner Republican candidate for the 2024 presidential elections, is facing a series of criminal cases.",
+      "url": "http://www.aljazeera.com/news/2023/9/12/case-against-donald-trump-shows-rottenness-of-us-political-system-putin",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-12T083023Z_1221977103_RC2W63AAUAJQ_RTRMADP_3_RUSSIA-ECONOMY-FORUM-PUTIN-1694516356.jpg?resize=1920%2C1440",
+      "publishedAt": "2023-09-12T12:17:17Z",
+      "content": "Russian President Vladimir Putin says the cases against former US President Donald Trump are political revenge that shows the fundamental corruption of American politics.\r\nTrump, the frontrunner Repu… [+2915 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "POLITICO",
+      "title": "The 8 places that will decide the 2024 election - POLITICO",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjMvMDkvMTIvMjAyNC1lbGVjdGlvbi1jb3VudGllcy1zcGxpdC10aWNrZXQtMDAxMTQ5NDDSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-12T11:44:41+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "Trump Seeks Recusal of Judge in Federal Elections Case - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDkvMTEvdXMvcG9saXRpY3MvdHJ1bXAtcmVjdXNhbC1qdWRnZS5odG1s0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-12T11:38:00+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": null,
+      "title": "Weissmann: Trump bid for new judge in Jan. 6 case is for ‘MAGA base’",
+      "description": "Andrew Weissmann tells MSNBC’s Lawrence O’Donnell that Donald Trump’s attempt to disqualify the judge in the federal election case for comments she made during sentencing hearings for two Jan. 6 defendants is “beyond the pale” and written for the MAGA base, s…",
+      "url": "https://www.msnbc.com/the-last-word/watch/weissmann-trump-bid-for-new-judge-in-jan-6-case-is-for-maga-base-192746565760",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2023_09/1694488940268_n_lw_apanel_230911_1920x1080-163a4c.jpg",
+      "publishedAt": "2023-09-12T03:22:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Charlie Sykes",
+      "title": "Pence’s Trump speech is a eulogy for a dead Republican Party",
+      "description": "Pence gave a big speech at New Hampshire’s Saint Anselm College last week. But after hammering Trump, Pence accidentally revealed a big 2024 election flaw.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/mike-pence-trump-republican-speech-election-2024-rcna104473",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230911-mike-pence-jm-1529-0b94d2.jpg",
+      "publishedAt": "2023-09-11T21:03:06Z",
+      "content": "Former Vice President Mike Pence really wants you to know that he gave a major address at New Hampshires Saint Anselm College last week. And, indeed, he delivered his harshest rebuke yet to his forme… [+4594 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ERIC TUCKER and ALANNA DURKIN RICHER",
+      "title": "Trump lawyers seek recusal of judge in DC presiding over federal election subversion case",
+      "description": "WASHINGTON (AP) — Lawyers for Donald Trump on Monday asked the federal judge presiding over his election subversion case in Washington to recuse herself, saying her past public statements about the former president and his connection to the Jan.",
+      "url": "https://apnews.com/3e5039d9d9bb5f47282ba517de5f0e7d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c51e7c90b188486a8e39d3cc4203d5b3/3000.jpeg",
+      "publishedAt": "2023-09-11T20:55:37Z",
+      "content": "WASHINGTON (AP) — Lawyers for Donald Trump on Monday asked the federal judge presiding over his election subversion case in Washington to recuse herself, saying her past public statements about the f… [+5206 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "What an unprecedented Biden ad blitz says about his reelection fight",
+      "description": "A super PAC is spending $13 million far ahead of the normal advertising timeline.",
+      "url": "https://www.politico.com/news/2023/09/09/what-an-unprecedented-biden-ad-blitz-says-about-his-reelection-fight-00114838",
+      "urlToImage": "https://static.politico.com/82/e6/65e3cb9442b588d88087d578bb45/biden-60663.jpg",
+      "publishedAt": "2023-09-09T11:00:00+00:00",
+      "content": "The election is still 423 days away, and Biden and his chief super PAC are already running TV ads in nearly every major battleground state far earlier than normal for a presidential election. And ins… [+7802 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "Biden’s reelection threatened by poor marks on the economy from voters of color",
+      "description": "“Our economy is the lowest it's been.\"",
+      "url": "https://www.politico.com/news/2023/08/18/bidens-reelection-economy-voters-of-color-00111730",
+      "urlToImage": "https://static.politico.com/5c/3b/94aa8c7c4ec99e34a8ebc5226962/https-delivery-gettyimages.com/downloads/1513206356",
+      "publishedAt": "2023-08-18T08:30:00+00:00",
+      "content": "The signs of dissatisfaction with Democrats didnt end there. Respondents were also asked about the rise in crime and border issues. Democrats got zeros across the board. Perhaps most troubling of all… [+6231 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Alex Gangitano",
+      "title": "Biden extends student loan freeze through August",
+      "description": "President Biden on Wednesday extended the pandemic moratorium on federal student loan payments and interest accrual through August, ending just three months before the midterm elections. The president announced the extension until August 31 in a statement, ci…",
+      "url": "https://thehill.com/news/administration/3259770-biden-extends-student-loan-freeze-through-august/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/03/bidenjoe_030822apandrewharnik.jpg?w=1280",
+      "publishedAt": "2022-04-06T14:01:23Z",
+      "content": "President Biden on Wednesday extended the pandemic moratorium on federal student loan payments and interest accrual through August, ending just three months before the midterm elections.\r\nThe preside… [+4527 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Kelsey Carolan",
+      "title": "GOP Rep. Bob Gibbs to retire amid Ohio primary battle",
+      "description": "Rep. Bob Gibbs (R-Ohio), elected in 2010, announced his retirement Wednesday morning, citing redistricting as his reasoning behind not running for reelection. “It is irresponsible to effectively confirm the congressional map for this election cycle seven days…",
+      "url": "https://thehill.com/news/house/3260264-gop-rep-bob-gibbs-to-retire-amid-ohio-primary-battle/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2016/11/gibbsbob_091015gn_lead.jpg?w=1280",
+      "publishedAt": "2022-04-06T13:49:45Z",
+      "content": "Rep. Bob Gibbs (R-Ohio), elected in 2010, announced his retirement Wednesday morning, citing redistricting as his reasoning behind not running for reelection.\r\nIt is irresponsible to effectively conf… [+1596 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Alexis Simendinger, Al Weaver",
+      "title": "The Hill’s Morning Report – Election year fights consume Capitol Hill",
+      "description": "If anyone needs evidence that the midterms are dictating everything in Washington, look no further than Tuesday’s events on Capitol Hill. There was name-calling, policy denunciations, blockades on pending legislation, more retirements, ennui, risk aversion an…",
+      "url": "https://thehill.com/news/morning-report/3260160-the-hills-morning-report-election-year-fights-consume-capitol-hill/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/MR_capitol-dome_022122_ap-Patrick-Semansky.jpg?w=1280",
+      "publishedAt": "2022-04-06T10:34:14Z",
+      "content": "If anyone needs evidence that the midterms are dictating everything in Washington, look no further than Tuesdays events on Capitol Hill. There was name-calling, policy denunciations, blockades on pen… [+17391 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "Cameron Joseph",
+      "title": "This GOP Congressman Officiated a Gay Wedding, and It Could Cost Him an Election",
+      "description": "GOP activists in the rural Virginia district are furious that Rep. Denver Riggleman would marry two men. Now they want to take him out.",
+      "url": "https://www.vice.com/en_us/article/qj48e5/this-gop-congressman-officiated-a-gay-wedding-and-it-could-cost-him-an-election",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfce70c5e37600996cccc2/lede/1590677127974-6Y1A6997.jpeg?crop=1xw:0.8462xh;0xw,0.0769xh&resize=1200:*",
+      "publishedAt": "2020-05-28T15:12:03Z",
+      "content": "When Anthony Rek LeCounte and Alex Siciliano tied the knot last summer, they didnt expect their wedding to become a flashpoint in a congressional campaign.\r\n Shortly after moving down to Charlottesvi… [+7013 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "Omri Nahmias",
+      "title": "President Donald Trump: Israel keeps having elections, nobody is elected",
+      "description": "Trump joked that his rating in Israel is 98%, and \"if anything happens here, I will take a trip over to Israel to run for prime minister there.”",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/President-Donald-Trump-Israel-keeps-having-elections-nobody-is-elected-607687",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/443370",
+      "publishedAt": "2019-11-13T02:06:00Z",
+      "content": "WASHINGTON - US President Donald Trump on Tuesday, mocked the political stalemate in Israel, in which Israelis \"keep having elections [but] nobody is elected.” \r\nA video circulating in social media, … [+1773 chars]"
+    }
+  ]
+}
