@@ -4,15 +4,19 @@ import Spinner from "./Spinner";
 import InfiniteScroll from "react-infinite-scroll-component";
 export class News extends Component {
   async updatepage() {
+    this.props.setProgress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${this.props.apikey}&page=${this.state.page}&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
+    this.props.setProgress(40);
     let articleValue = await data.json();
+    this.props.setProgress(70);
     this.setState({
       article: articleValue.articles,
       totalArticles: articleValue.totalResults,
       loading: false,
     });
+    this.props.setProgress(100);
   }
 
   fetchMoreData = async () => {
